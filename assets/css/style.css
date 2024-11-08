@@ -50,6 +50,7 @@ body {
 
 .bottoniProfile {
   border-radius: 1px;
+  margin-bottom: 10px;
 }
 .bottoniProfile:hover {
   background-color: white;
