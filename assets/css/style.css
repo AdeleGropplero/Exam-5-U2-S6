@@ -55,4 +55,12 @@ body {
   background-color: white;
   color: black;
   font-weight: bold;
+}
+
+.checkbox {
+  transform: scale(1.5);
+  margin: 5px;
+  /*   &:active {
+    background-color: inherit;
+  }*/
 }/*# sourceMappingURL=style.css.map */
