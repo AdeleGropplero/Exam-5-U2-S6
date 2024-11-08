@@ -19,9 +19,11 @@ body {
 
 .footer {
   margin-top: 7rem;
+  max-width: 900px;
 }
 
 .footerBtn {
+  width: 150px;
   border-radius: 1px;
   padding-inline: 0;
 }
