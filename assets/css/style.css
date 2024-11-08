@@ -50,4 +50,9 @@ body {
 
 .bottoniProfile {
   border-radius: 1px;
+}
+.bottoniProfile:hover {
+  background-color: white;
+  color: black;
+  font-weight: bold;
 }/*# sourceMappingURL=style.css.map */
