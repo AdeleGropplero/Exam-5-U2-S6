@@ -24,4 +24,30 @@ body {
 .footerBtn {
   border-radius: 1px;
   padding-inline: 0;
+}
+
+.avatar2 {
+  display: block;
+  position: relative;
+  height: 100%;
+  border-radius: 3px;
+}
+.avatar2 img:first-child {
+  height: 10rem;
+}
+
+.changeAvatar {
+  position: absolute;
+  bottom: 5px;
+  left: 0;
+  background-color: black;
+}
+
+.maturityRatings {
+  background-color: #5a5a5a;
+  width: 13rem;
+}
+
+.bottoniProfile {
+  border-radius: 1px;
 }/*# sourceMappingURL=style.css.map */
